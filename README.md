@@ -8,7 +8,6 @@ In addition to my technical skills, I focus on creating efficient workflows that
 
 Feel free to explore and connect with me through the following links:
 
-- **[GitHub](https://github.com/theMasoodHp)** – Access my code repositories and projects.
 - **[LinkedIn](https://www.linkedin.com/in/masood-heydarpour-16970415a/)** – Connect professionally and view my career journey.
 - **[Portfolio PDF](https://drive.google.com/file/d/1jeH4QBJ9k10l-hHZiE7lesbbBiLfjw-h/view?usp=sharing)** – Download my full portfolio.
 - **[Online Portfolio](https://issuu.com/masood-heydarpour/docs/portfolio-_masood_heydarpour_)** – Browse my portfolio online.
